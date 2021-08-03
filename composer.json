@@ -22,10 +22,10 @@
       "role": "Developer"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "require": {
     "codeception/codeception": "*",
-    "reportportal/basic": "dev-go1custom"
+    "reportportal/base": "dev-go1custom"
   },
   "autoload": {
     "classmap": [
